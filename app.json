@@ -1,4 +1,14 @@
 {
   "name": "WebViewApp",
-  "displayName": "WebViewApp"
+  "displayName": "WebViewApp",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "8f0f8279-b24c-400b-ad09-41705af0a50a"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.hoanginspirelab.mobilepaymentgateway"
+    }
+  }
 }
